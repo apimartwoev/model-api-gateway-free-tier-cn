@@ -2,7 +2,7 @@
 
 > **One OpenAI-compatible key, 300+ models** · image2.5 **$0.0085/image** · Seedance 2.0 Mini **$0.01056/sec** · LLM from **$0.0228 / M tokens** · $1 minimum top-up.
 
-**[查看实时价格](https://go.apimart.ai/k-77b799)** · **[领取 API Key](https://go.apimart.ai/k-4fc96c)**
+**[查看实时价格](https://go.apimart.ai/k-62e419)** · **[领取 API Key](https://go.apimart.ai/k-4fc96c)**
 
 model-api-gateway-free-tier-cn：统一 `base_url`、一个 key 接入 300+ 模型——美元结算、按量计费、$1 起充。
 
